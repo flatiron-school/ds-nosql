@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # Keys
-.secrets
+.secrets/atlas.json
+.secrets/credentials.json
